@@ -7,5 +7,3 @@
  - a5: Exemple clients i servidor Multicast UDP
  - a6: TCP amb múltiples clients
  - a7: TCP amb múltiples clients i passant objectes
- - game: Joc de l'Oca versió consola i versió JavaFX (aquest pendent de pulir)
- - examen: Examen 2018 (Multicast amb objectes + tcp)
